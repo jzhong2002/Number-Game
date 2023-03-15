@@ -1,1 +1,1 @@
-# Inter Program Exercise
+# Intern Program Exercise
