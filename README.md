@@ -1,1 +1,1 @@
-# Intern Program Exercise
+# Number game in Python
